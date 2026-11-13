@@ -51,19 +51,36 @@
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kings244645-gif&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
+<img src="https://streak-stats.demolab.com?user=kings244645-gif&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kings244645-gif&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+</div>
 
-<img src="https://streak-stats.demolab.com?user=kings244645-gif&theme=tokyonight&hide_border=true" />
+### 💻 Technologies I Work With
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
 ---
+
+## 🐍 Contribution Graph
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/kings244645-gif/kings244645-gif/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+
+</div>
 
 ## 🏆 GitHub Trophies
 
