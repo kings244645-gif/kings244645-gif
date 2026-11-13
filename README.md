@@ -74,14 +74,6 @@
 
 ---
 
-## 🐍 Contribution Graph
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/kings244645-gif/kings244645-gif/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
-
-</div>
-
 ## 🏆 GitHub Trophies
 
 <div align="center">
