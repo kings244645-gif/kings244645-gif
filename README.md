@@ -1,45 +1,112 @@
 # 👋 Hi, I'm Teenu Singh!
 
+<div align="center">
+
 ### 💻 Mathematics Enthusiast | Python Developer | AI & Machine Learning
 
-Welcome to my GitHub profile!
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile!;Exploring+Artificial+Intelligence;Learning+Deep+Learning+%26+Neural+Networks;Building+Projects+with+Python;Turning+Mathematics+into+Technology" alt="Typing SVG" />
 
-I'm passionate about Mathematics, Programming, Artificial Intelligence and Machine Learning. I enjoy exploring new technologies and building projects that solve real-world problems.
+</div>
 
-### 🚀 About Me
+---
 
-- 🔭 Exploring Artificial Intelligence and Machine Learning.
-- 🌱 Learning Deep Learning and Neural Networks.
-- 💻 Working with Python and mathematical programming.
+## 🚀 About Me
+
+- 🧮 Passionate about Mathematics and Problem Solving.
+- 🤖 Exploring Artificial Intelligence and Machine Learning.
+- 🧠 Learning Deep Learning and Neural Networks.
+- 🐍 Working with Python and scientific computing.
 - 📊 Interested in Data Science and Statistical Analysis.
-- 🎯 Continuously learning and building practical projects.
+- 🌱 Always learning, experimenting and building projects.
 
-### 🛠️ Technical Skills
+---
 
-**Languages:** Python, C, C++
+## 🛠️ Tech Stack & Tools
 
-**AI & ML:** Machine Learning, Deep Learning, PyTorch, Scikit-learn
+<div align="center">
 
-**Data Science:** NumPy, Pandas, Matplotlib, Plotly
+<img src="https://skillicons.dev/icons?i=python,cpp,c,pytorch,tensorflow,sklearn,numpy,pandas,git,github,vscode,html,css&perline=7" alt="Technology icons" />
 
-**Tools:** Git, GitHub, Streamlit, Jupyter Notebook
+</div>
 
-### 📌 Featured Projects
+**Areas of Interest**
 
-- 🧠 **VAE Neural Network Dashboard** – MNIST digit generation using PyTorch and Streamlit.
-- 📊 **Machine Learning Projects** – Regression, Classification and Clustering.
-- 🔬 **Deep Learning Projects** – CNN architectures and image classification.
-- 📐 **Mathematics with Python** – Numerical methods and statistical computing.
+- Artificial Intelligence
+- Machine Learning
+- Deep Learning
+- Data Science
+- Mathematics and Statistics
+- Neural Networks
 
-### 📈 My Goals
+---
 
-- Build practical AI and ML projects.
-- Improve programming and problem-solving skills.
-- Contribute to open-source projects.
-- Collaborate with developers and learners.
+## 💡 Featured Projects
 
-### 🤝 Connect With Me
+| Project | Description | Technologies |
+|---|---|---|
+| VAE Neural Network Dashboard | MNIST digit generation and latent space visualization | Python, PyTorch, Streamlit |
+| Machine Learning Projects | Regression, classification and clustering | Python, Scikit-learn |
+| Deep Learning Lab | CNN implementation and image classification | Python, PyTorch |
+| Mathematics with Python | Numerical methods and statistical computing | Python, NumPy |
 
-- GitHub: https://github.com/kings244645-gif
+---
 
-⭐ Thanks for visiting my profile!
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=kings244645-gif&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub statistics" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kings244645-gif&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=kings244645-gif&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=kings244645-gif&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub trophies" />
+
+</div>
+
+---
+
+## 🐍 Contribution Graph
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/kings244645-gif/kings244645-gif/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" />
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/kings244645-gif">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/teenu-singh">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+*Keep Learning • Keep Building • Keep Growing*
+
+</div>
