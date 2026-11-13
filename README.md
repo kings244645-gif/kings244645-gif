@@ -55,13 +55,11 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kings244645-gif&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub statistics" />
+<img src="https://github-readme-stats.vercel.app/api?username=kings244645-gif&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kings244645-gif&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kings244645-gif&layout=compact&theme=tokyonight&hide_border=true" height="180" />
 
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=kings244645-gif&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+<img src="https://streak-stats.demolab.com?user=kings244645-gif&theme=tokyonight&hide_border=true" />
 
 </div>
 
