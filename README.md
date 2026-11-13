@@ -82,8 +82,6 @@
 
 </div>
 
----
-
 ## 🐍 Contribution Graph
 
 <div align="center">
