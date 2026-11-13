@@ -74,13 +74,13 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements & Learning Journey
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=kings244645-gif&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub trophies" />
-
-</div>
+- 🚀 Building practical Artificial Intelligence projects.
+- 🧠 Exploring Deep Learning and Neural Networks.
+- 📊 Developing Machine Learning applications.
+- 💻 Improving programming and problem-solving skills.
+- 🌱 Actively learning and contributing to GitHub.
 
 ## 🐍 Contribution Graph
 
